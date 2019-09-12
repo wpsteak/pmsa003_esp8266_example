@@ -27,7 +27,7 @@ uint8_t * pms_read_data() {
   // setup software uart to 9600 8n1
   softuart_open(0, 9600, RX_PIN, TX_PIN);
 
-  uint8_t pm1, pm25, pm10;
+  // uint8_t pm1, pm25, pm10;
   static uint8_t chrData[30] = {0};
 
   int bytCount = 0;
