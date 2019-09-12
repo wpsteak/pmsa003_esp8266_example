@@ -1,7 +1,4 @@
-# pmsa003_esp8266_example
-pmsa003 example for esp-open-rtos
-
-## Notice
+# Notice
 1. only for testing & learning, do not use in production projects
 
 2. this esp-open-rtos example is porting from arduino code
